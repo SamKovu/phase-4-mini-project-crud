@@ -1,7 +1,7 @@
 puts "🌱 Seeding spices..."
 
 # Spice Data from spicejungle.com
-Spice.create!([
+Spice.create([
   {
     title: "Allspice Berries, Whole (Jamaican)",
     image: "https://p1.pxfuel.com/preview/702/133/186/allspice-piment-pimenta-dioica-pimenta-officinalis.jpg",
